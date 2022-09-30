@@ -1,4 +1,25 @@
 body{
     width: 876px;
-    
+    background: #bd001f url("../Images/-IMG_BG_LOC-") repeat-x top;
+    font-family: Microsoft JhengHei;
+    font-size: 1em;
+    color: #333;
+    margin: 25px;
+    padding: 25px;
 }
+
+ul{
+    list-style-type: none;
+}
+
+#nav{
+    float: right;
+}
+
+#nav li{
+    display: inline;
+    margin: 5px;
+    color: #fff;
+}
+
+
